@@ -11,4 +11,5 @@ out/
 # Ignore logs
 npm-debug.log
 yarn-debug.log
-yarn-error.log
+yarn-error.lognode_modules/
+*.node
