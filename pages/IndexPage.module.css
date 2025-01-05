@@ -1,0 +1,23 @@
+.introSection {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 100%;
+  background-color: #eecaf0;
+  border-radius: 0;
+  text-align: center;
+  min-height: 200px;
+}
+
+.introSection h3 {
+  color: #fff;
+  font-size: 28px;
+  margin-bottom: 10px;
+  font-family: 'Arial', sans-serif;
+}
+
+.introSection p {
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.6;
+  font-family: 'Arial', sans-serif;
+}

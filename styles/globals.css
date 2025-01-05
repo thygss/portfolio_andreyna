@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+body {
+  background-color: #eecaf0;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif; /* Altere a fonte padrão */
+}
+
+h1, h2 {
+  font-family: 'Montserrat-ExtraBold', sans-serif; /* Fonte local */
+}
+
+p {
+  font-family: 'Montserrat-Bold', sans-serif; /* Fonte local */
+}
+
+.button, .text {
+  font-family: 'Montserrat-Regular', sans-serif; /* Adicione onde necessário */
+}
