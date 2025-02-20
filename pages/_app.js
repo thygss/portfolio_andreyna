@@ -1,10 +1,10 @@
 import '../styles/globals.css';
-import '../components/Header.module.css'; // Certifique-se de que o caminho está correto
+import '../components/Header.module.css';
 
-import { Montserrat } from 'next/font/google'; // Corrigindo a importação
+import { Montserrat } from 'next/font/google';
 const montserrat = Montserrat({
-  subsets: ['latin'], // Subconjuntos usados
-  weight: ['400', '700'], // Pesos da fonte
+  subsets: ['latin'],
+  weight: ['400', '700'],
 });
 
 function MyApp({ Component, pageProps }) {

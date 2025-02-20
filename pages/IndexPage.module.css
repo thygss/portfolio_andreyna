@@ -9,15 +9,15 @@
 }
 
 .introSection h3 {
-  color: #fff;
+  color: #000;
   font-size: 28px;
   margin-bottom: 10px;
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
 }
 
 .introSection p {
-  color: #fff;
+  color: #000;
   font-size: 18px;
   line-height: 1.6;
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
 }

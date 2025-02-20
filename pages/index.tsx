@@ -4,7 +4,7 @@ import AboutSection from '../components/AboutSection';
 import HowItWorks from '../components/HowItWorks';
 
 const Home = () => {
-  const [activeSection, setActiveSection] = useState('home'); // 'home', 'about', 'howItWorks'
+  const [activeSection, setActiveSection] = useState('home');
 
   return (
     <div>
