@@ -23,13 +23,13 @@
 
 .logo h1 {
   font-size: 24px;
-  font-family: "Arial", sans-serif;
+  font-family: "Montserrat-ExtraBold";
   margin: 0;
 }
 
 .logo h3 {
   font-size: 24px;
-  font-family: "Arial", sans-serif;
+  font-family: "Montserrat-ExtraBold";
   margin: 0;
 }
 
@@ -72,12 +72,13 @@
 .content {
   max-width: 1000px;
   margin-right: 20px;
+  font-family: "Montserrat-ExtraBold";
 }
 
 .content h2 {
   color: #000;
   font-size: 36px;
-  font-family: "Arial", sans-serif;
+  font-family: "Montserrat-ExtraBold";
   margin-bottom: 20px;
 }
 
@@ -85,7 +86,7 @@
   color: #000;
   font-size: 22px;
   line-height: 1.8;
-  font-family: "Arial", sans-serif;
+  font-family: "Monstserrat-Bold";
   margin-bottom: 20px;
 }
 
