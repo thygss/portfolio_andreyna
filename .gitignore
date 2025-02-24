@@ -14,3 +14,6 @@ yarn-debug.log
 yarn-error.lognode_modules/
 *.node
 .next/cache/
+.next/server
+.next/static
+.vscode

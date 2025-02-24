@@ -4,7 +4,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 0.5rem 1rem;
-  background-color: #eecaf0;
+  background-color: #fff;
   color: white;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -67,7 +67,7 @@
   align-items: center;
   flex-wrap: wrap;
   padding: 50px;
-  background-color: #eecaf0;
+  background-color: #fff;
 }
 
 .content {

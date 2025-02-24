@@ -23,6 +23,7 @@
 
 .logo h1 {
   font-size: 24px;
+  color: #fff;
   font-family: "Montserrat-ExtraBold";
   margin: 0;
 }
@@ -66,24 +67,24 @@
   align-items: center;
   flex-wrap: wrap;
   padding: 50px;
-  background-color: #eecaf0;
+  background-color: #fff;
 }
 
 .content {
   max-width: 1000px;
   margin-right: 20px;
-  font-family: "Montserrat-ExtraBold";
+  font-family: "Monstserrat-Bold";
 }
 
 .content h2 {
-  color: #000;
+  color: #fff;
   font-size: 36px;
   font-family: "Montserrat-ExtraBold";
   margin-bottom: 20px;
 }
 
 .content p {
-  color: #000;
+  color: #fff;
   font-size: 22px;
   line-height: 1.8;
   font-family: "Monstserrat-Bold";
